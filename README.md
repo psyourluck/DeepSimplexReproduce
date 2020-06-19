@@ -1,4 +1,4 @@
-# finalproject
+# An overview of the codes
  + These codes reproduces a project rejected by ICML using RL to learn a pivot in simplex method, it's a final project for the Algorithms in Large Data in PKU
  
 The.npy files are the data saved by numpy using Python, they are the real data to test the model  
